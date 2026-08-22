@@ -4,9 +4,7 @@ In this study, I develop and evaluate machine learning models for predicting the
 
 I perform EDA on the predictors, preprocess the data, and fit baseline logistic regression and random forest models. I then use hyperparameter tuning and nested cross-validation to evaluate whether tuning improves model performance. I evaluate model performance using recall, precision, and ROC-AUC, with particular emphasis on recall because of the potential consequences of false-negative predictions. Finally, I examine decision-threshold selection, estimate confidence intervals for model performance using bootstrap resampling, and conduct exploratory subgroup analyses by sex.
 
-File:
-
-Notebook
+File: https://github.com/sszew/heart_disease_machine_learning/blob/main/heart_disease_machine_learning_szewczyk.ipynb
 
 Technology:
 
