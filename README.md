@@ -26,7 +26,7 @@ Data visualization
 
 Dataset:
 
-- Source: Janosi, A., Steinbrunn, W., Pfisterer, M., & Detrano, R. (1989). Heart Disease [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C52P4X.
+- Source: Janosi, A., Steinbrunn, W., Pfisterer, M., & Detrano, R. (1989). Heart Disease [Dataset]. UCI Machine Learning Repository. https://archive.ics.uci.edu/dataset/45/heart+disease.
 - License: Creative Commons Attribution 4.0 International (CC BY 4.0).
 
 **Return to main page: https://github.com/sszew/Data-Science-Portfolio---Scottie-Szewczyk**
