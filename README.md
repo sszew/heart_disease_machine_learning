@@ -1,4 +1,4 @@
-# Heart Disease Machine Learning
+# Developing a Heart Disease Prediction Model (UCI Heart Disease Dataset)
 
 In this study, I develop and evaluate machine learning models for predicting the presence of heart disease.
 
