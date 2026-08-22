@@ -14,15 +14,15 @@ Technology:
 
 Skills:
 
-Machine learning
-Logistic regression
-Random forest
-Hyperparameter tuning
-Nested cross-validation
-Statistical modeling
-Statistical reasoning
-Exploratory data analysis (EDA)
-Data visualization
+- Machine learning
+- Logistic regression
+- Random forest
+- Hyperparameter tuning
+- Nested cross-validation
+- Statistical modeling
+- Statistical reasoning
+- Exploratory data analysis (EDA)
+- Data visualization
 
 Dataset:
 
