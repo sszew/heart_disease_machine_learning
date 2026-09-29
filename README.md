@@ -29,7 +29,7 @@ Dataset:
 - License: Creative Commons Attribution 4.0 International (CC BY 4.0).
 
 
-DISCLAIMER: This project is for educational and research purposes only and is not intended for medical diagnosis, treatment, or clinical decision-making. The model should not be used as a substitute for professional medical advice.
+**DISCLAIMER: This project is for educational and research purposes only and is not intended for medical diagnosis, treatment, or clinical decision-making. The model should not be used as a substitute for professional medical advice.**
 
 ---
 **Return to main page: https://github.com/sszew/Data-Science-Portfolio---Scottie-Szewczyk**
